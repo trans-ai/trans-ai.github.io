@@ -2,7 +2,7 @@
 layout: default
 --- 
 
-Trans-disciplinary research in Artificial Intelligence (AI) with applications in Earth and Environmental Sciences, Climate Science Health and Medicine and Business. 
+We are a group  focusing  on trans-disciplinary   Artificial Intelligence (AI) research where the novely comes from transforming the domain. 
 
 ## active members
 
