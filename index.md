@@ -1,24 +1,19 @@
 ---
 layout: default
----
+--- 
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Trans-disciplinary research in Artificial Intelligence with applications in Earth and Environmental Sciences, Climate Science Health and Medicine and Business. 
 
 ## members
 
 Dr. Rohitash Chandra,   University of Sydney (group leader), Australia
-Mr. Ratneel Deo, University of the South Pacific 
-Ms. Swaran Ravindra, Fiji National University 
-Mr. Yogesh Nadan, Fiji National University 
+Mr. Ratneel Deo, University of the South Pacific, Fiji 
+Ms. Swaran Ravindra, Fiji National University, Fiji 
+Mr. Yogesh Nadan, Fiji National University, Fiji 
 Dr. Shelvin Chand, Spain
-Mr. Konark Jain, Indian Institute of Technology
-Mr. Arpit Kapoor, SRM Institute of Technology
+Mr. Konark Jain, Indian Institute of Technology, India
+Mr. Arpit Kapoor, SRM Institute of Technology, India 
+
 
 
 
