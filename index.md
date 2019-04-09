@@ -42,13 +42,31 @@ Trans-disciplinary research in Artificial Intelligence (AI) with applications in
 * AI in Earth, Environmental and Climate Sciences
 * AI for Assistive technologies,  Robotics Control,    and others
 
-## themes
+## software archives
 * [Sydney Machine Learning](https://github.com/sydney-machine-learning/ )
 * [Intelligent Exploration](https://github.com/intelligent-exploration )
 * [Intelligent Earth](https://github.com/intelligentEarth/ ) 
 
+## active research projects 
+* Solid Earth Evolution
+* Paleo-climate Resonstruction 
+* Evolutionary parallel tempering MCMC
+* Ethical issues in AI
+
+
+## educational resources
+* [Neural Networks MOOCs]() by Rohitash Chandra
+* [Bayesian inference for Earth evolution models: Bayelands Worshop]() given at University of Sydney
+* [Selected Research papers]()
+* [Research presentation videos]() by  Rohitash Chandra
+* [Software portfolio]() by Rohitash Chandra
+
+
+
+
+
 ## contact
 
-* In order to join this group, send an EOI with CV to Dr. Rohitash Chandra ( c dot rohitash at gmail dot com)
-* Note that you have to be active in the group discuission list, hosted by googlegroups, at least one discussion post every 3 months. Elese you will be listed in the past member category in the following year. 
+* In order to join this group, send an EOI with CV to Dr. Rohitash Chandra ( c dot rohitash at gmail dot com). Affliate membership also welcome.
+* Note that you have to be active in the group discuission list hosted at googlegroups with at least one discussion post every 3 months. Else you will be listed in the past member category in the following year. 
 
