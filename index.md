@@ -2,56 +2,37 @@
 layout: default
 --- 
 
-Trans-disciplinary research in Artificial Intelligence with applications in Earth and Environmental Sciences, Climate Science Health and Medicine and Business. 
+Trans-disciplinary research in Artificial Intelligence (AI) with applications in Earth and Environmental Sciences, Climate Science Health and Medicine and Business. 
 
 ## members
 
-Dr. Rohitash Chandra,   University of Sydney (group leader), Australia
-Mr. Ratneel Deo, University of the South Pacific, Fiji 
-Ms. Swaran Ravindra, Fiji National University, Fiji 
-Mr. Yogesh Nadan, Fiji National University, Fiji 
-Dr. Shelvin Chand, Spain
-Mr. Konark Jain, Indian Institute of Technology, India
-Mr. Arpit Kapoor, SRM Institute of Technology, India 
+*Dr. Rohitash Chandra,   University of Sydney (group leader), Australia
+*Mr. Ratneel Deo, University of the South Pacific, Fiji 
+*Ms. Swaran Ravindra, Fiji National University, Fiji 
+*Mr. Yogesh Nadan, Fiji National University, Fiji 
+*Mr. Konark Jain, Indian Institute of Technology, India
+*Mr. Arpit Kapoor, SRM Institute of Technology, India
+*Dr. Rodney Beard, Cook Islands
+*
+*
 
 
 
 
 ## research methods
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+*Artificial Intelligence methods include, but not limiting to, Data Science, Machine learning and Optimisation
+*Deep Learning and Neural networks, Learning systems
+*Optimisation methods that include Evolutionary Algorithms, Swarm Intelligence 
+*Supervised, Unsupervised and Reinforcement Learning
+*Bayesian methods, MCMC methods, Distributed AI algorithms, Parallel MCMC methods
+
 
 ## transitional research
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+*Ethics in AI, AI for Business, AI for Assistive technologies,  Robotics Control,    and others. 
+
 ```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
 ###### Header 6
 
 | head1        | head two          | three |
@@ -116,7 +97,7 @@ end
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
-
+```
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
