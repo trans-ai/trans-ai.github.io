@@ -4,7 +4,7 @@ layout: default
 
 Trans-disciplinary research in Artificial Intelligence (AI) with applications in Earth and Environmental Sciences, Climate Science Health and Medicine and Business. 
 
-## members
+## active members
 
 * [Dr. Rohitash Chandra](https://sydney.edu.au/science/people/rohitash.chandra.php),   University of Sydney (group leader), Australia 
 * Mr. Ratneel Deo, University of the South Pacific, Fiji 
@@ -16,6 +16,10 @@ Trans-disciplinary research in Artificial Intelligence (AI) with applications in
 * Mr. Ashray Aman, Indian Institute of Technology, India
 * Mr. Rishab Gupta, Indian Institute of Technology, India
 * Dr. Rodney Beard,Forum Fisheries Agency, Solomon  Islands
+
+
+## affiliates
+* Prof. Christian Omlin
 
 
 
