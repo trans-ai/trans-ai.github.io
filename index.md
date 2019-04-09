@@ -6,13 +6,13 @@ Trans-disciplinary research in Artificial Intelligence (AI) with applications in
 
 ## members
 
-*Dr. Rohitash Chandra,   University of Sydney (group leader), Australia
-*Mr. Ratneel Deo, University of the South Pacific, Fiji 
-*Ms. Swaran Ravindra, Fiji National University, Fiji 
-*Mr. Yogesh Nadan, Fiji National University, Fiji 
-*Mr. Konark Jain, Indian Institute of Technology, India
-*Mr. Arpit Kapoor, SRM Institute of Technology, India
-*Dr. Rodney Beard, Cook Islands
+* Dr. Rohitash Chandra,   University of Sydney (group leader), Australia
+* Mr. Ratneel Deo, University of the South Pacific, Fiji 
+* Ms. Swaran Ravindra, Fiji National University, Fiji 
+* Mr. Yogesh Nadan, Fiji National University, Fiji 
+* Mr. Konark Jain, Indian Institute of Technology, India
+* Mr. Arpit Kapoor, SRM Institute of Technology, India
+* Dr. Rodney Beard, Cook Islands
 *
 *
 
