@@ -6,7 +6,7 @@ Trans-disciplinary research in Artificial Intelligence (AI) with applications in
 
 ## active members
 
-* [Dr. Rohitash Chandra](https://sydney.edu.au/science/people/rohitash.chandra.php),   University of Sydney (group leader), Australia 
+* [Dr. Rohitash Chandra](https://sydney.edu.au/science/people/rohitash.chandra.php), (Group Lead)  University of Sydney, Australia 
 * Mr. Ratneel Deo, University of the South Pacific, Fiji 
 * Ms. Swaran Ravindra, Fiji National University, Fiji 
 * Mr. Yogesh Nadan, Fiji National University, Fiji 
@@ -60,8 +60,8 @@ Trans-disciplinary research in Artificial Intelligence (AI) with applications in
 * [Selected Research papers](https://github.com/rohitash-chandra/research)
 * [ResearchGate profile with papers ](https://researchgate.net/profile/Rohitash_Chandra)
 *  Research presentation videos by  Rohitash Chandra
-  * [Seminar: Cooperative Neuroevolution and applications]()
-  * [Seminar: Earth evolution models using Bayeslands]()
+* * [Seminar: Cooperative Neuroevolution and applications]()
+* * [Seminar: Earth evolution models using Bayeslands]()
 * [Software portfolio](https://rohitash-chandra.github.io/portfolio/) by Rohitash Chandra
 
 
