@@ -12,9 +12,11 @@ Trans-disciplinary research in Artificial Intelligence (AI) with applications in
 * Mr. Yogesh Nadan, Fiji National University, Fiji 
 * Mr. Konark Jain, Indian Institute of Technology, India
 * Mr. Arpit Kapoor, SRM Institute of Technology, India
-* Dr. Rodney Beard, Cook Islands
-*
-*
+* Mr. Aakrash Yadav, Indian Institute of Technology, India
+* Mr. Ashray Aman, Indian Institute of Technology, India
+* Mr. Rishab Gupta, Indian Institute of Technology, India
+* Dr. Rodney Beard,Forum Fisheries Agency, Solomon  Islands
+
 
 
 
