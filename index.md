@@ -59,8 +59,9 @@ Trans-disciplinary research in Artificial Intelligence (AI) with applications in
 * [Bayesian inference for Earth evolution models: Bayelands Worshop](https://www.earthbyte.org/bayeslands-resources/) given at University of Sydney
 * [Selected Research papers](https://github.com/rohitash-chandra/research)
 * [ResearchGate profile with papers ](https://researchgate.net/profile/Rohitash_Chandra)
-* [Research presentation videos]() by  Rohitash Chandra
-* * xxx
+*  Research presentation videos by  Rohitash Chandra
+  * [Seminar: Cooperative Neuroevolution and applications]()
+  * [Seminar: Earth evolution models using Bayeslands]()
 * [Software portfolio](https://rohitash-chandra.github.io/portfolio/) by Rohitash Chandra
 
 
