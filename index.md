@@ -55,11 +55,13 @@ Trans-disciplinary research in Artificial Intelligence (AI) with applications in
 
 
 ## educational resources
-* [Neural Networks MOOCs]() by Rohitash Chandra
-* [Bayesian inference for Earth evolution models: Bayelands Worshop]() given at University of Sydney
-* [Selected Research papers]()
+* [Neural Networks MOOCs](https://rohitashchandra.wordpress.com/2019/02/19/neural-networks-fundamentals-and-applications/) by Rohitash Chandra
+* [Bayesian inference for Earth evolution models: Bayelands Worshop](https://www.earthbyte.org/bayeslands-resources/) given at University of Sydney
+* [Selected Research papers](https://github.com/rohitash-chandra/research)
+* [ResearchGate profile with papers ](https://researchgate.net/profile/Rohitash_Chandra)
 * [Research presentation videos]() by  Rohitash Chandra
-* [Software portfolio]() by Rohitash Chandra
+* * xxx
+* [Software portfolio](https://rohitash-chandra.github.io/portfolio/) by Rohitash Chandra
 
 
 
