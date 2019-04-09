@@ -10,17 +10,25 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+## members
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Dr. Rohitash Chandra,   University of Sydney (group leader), Australia
+Mr. Ratneel Deo, University of the South Pacific 
+Ms. Swaran Ravindra, Fiji National University 
+Mr. Yogesh Nadan, Fiji National University 
+Dr. Shelvin Chand, Spain
+Mr. Konark Jain, Indian Institute of Technology
+Mr. Arpit Kapoor, SRM Institute of Technology
 
-## Header 2
+
+
+## research methods
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+## transitional research
 
 ```js
 // Javascript code with syntax highlighting.
