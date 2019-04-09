@@ -6,7 +6,7 @@ Trans-disciplinary research in Artificial Intelligence (AI) with applications in
 
 ## members
 
-* Dr. Rohitash Chandra,   University of Sydney (group leader), Australia
+* [Dr. Rohitash Chandra](https://sydney.edu.au/science/people/rohitash.chandra.php),   University of Sydney (group leader), Australia 
 * Mr. Ratneel Deo, University of the South Pacific, Fiji 
 * Ms. Swaran Ravindra, Fiji National University, Fiji 
 * Mr. Yogesh Nadan, Fiji National University, Fiji 
@@ -30,9 +30,11 @@ Trans-disciplinary research in Artificial Intelligence (AI) with applications in
 
 ## transitional research
 
-* Ethics in AI, AI for Business
+* Ethics in AI 
 * AI for Health and Medicine
-* AI for Assistive technologies,  Robotics Control,    and others. 
+* AI in Finance and Business
+* AI in Earth, Environmental and Climate Sciences
+* AI for Assistive technologies,  Robotics Control,    and others
 
 ```
 ###### Header 6
