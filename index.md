@@ -21,16 +21,18 @@ Trans-disciplinary research in Artificial Intelligence (AI) with applications in
 
 ## research methods
 
-*Artificial Intelligence methods include, but not limiting to, Data Science, Machine learning and Optimisation
-*Deep Learning and Neural networks, Learning systems
-*Optimisation methods that include Evolutionary Algorithms, Swarm Intelligence 
-*Supervised, Unsupervised and Reinforcement Learning
-*Bayesian methods, MCMC methods, Distributed AI algorithms, Parallel MCMC methods
+* Artificial Intelligence methods include, but not limiting to, Data Science, Machine learning and Optimisation
+* Deep Learning and Neural networks, Learning systems
+* Optimisation methods that include Evolutionary Algorithms, Swarm Intelligence 
+* Supervised, Unsupervised and Reinforcement Learning
+* Bayesian methods, MCMC methods, Distributed AI algorithms, Parallel MCMC methods
 
 
 ## transitional research
 
-*Ethics in AI, AI for Business, AI for Assistive technologies,  Robotics Control,    and others. 
+* Ethics in AI, AI for Business
+* AI for Health and Medicine
+* AI for Assistive technologies,  Robotics Control,    and others. 
 
 ```
 ###### Header 6
