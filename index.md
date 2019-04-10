@@ -15,11 +15,12 @@ We are a group  focusing  on trans-disciplinary   Artificial Intelligence (AI) r
 * Mr. Aakrash Yadav, Indian Institute of Technology, India
 * Mr. Ashray Aman, Indian Institute of Technology, India
 * Mr. Rishab Gupta, Indian Institute of Technology, India
-* Dr. Rodney Beard,Forum Fisheries Agency, Solomon  Islands
+* Mr. Krishan Kumar, University of the South Pacific, Fiji 
 
 
 ## affiliates
-* Prof. Christian Omlin
+* Prof. Christian Omlin (Norway), Dr. Shelvin Chand (Spain), Dr. Surya Prakash (Australia), Dr. John Hawkins (Data Robot, Australia), Dr. Rodney Beard (Solomon  Islands), Dr. Hugo Olierook (Perth, Australia), A/Prof. Jody Webster (Usyd, Australia), Prof. Dietmar Muller (Usyd, Sydney)
+
 
 
 
