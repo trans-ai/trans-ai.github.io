@@ -19,7 +19,7 @@ We are a group  focusing  on trans-disciplinary   Artificial Intelligence (AI) r
 
 
 ## affiliates
-* Prof. Christian Omlin (Norway), Dr. Shelvin Chand (Spain), Dr. Surya Prakash (Australia), Dr. John Hawkins (Data Robot, Australia), Dr. Rodney Beard (Solomon  Islands), Dr. Hugo Olierook (Curtin,Perth), A/Prof. Jody Webster (USyd, Sydney), Prof. Dietmar Muller (USyd, Sydney), Dr. Vladimir Puzyrev (Curtin, Perth)
+* Prof. Christian Omlin (Norway), Dr. Shelvin Chand (Spain), Dr. Surya Prakash (Australia), Dr. John Hawkins (Data Robot, Australia), Dr. Rodney Beard (Solomon  Islands), Dr. Hugo Olierook (Curtin,Perth), A/Prof. Jody Webster (USyd, Sydney), Prof. Dietmar Muller (USyd, Sydney), Dr. Vladimir Puzyrev (Curtin, Perth), Mr. Danial Azam, (USyd, Sydney)
 
 
 
