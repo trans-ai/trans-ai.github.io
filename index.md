@@ -2,7 +2,7 @@
 layout: default
 --- 
 
-We are a group  focusing  on trans-disciplinary   Artificial Intelligence (AI) research where the novely comes from transforming the domain. 
+We are a group  focusing  on trans-disciplinary   Artificial Intelligence (AI) research where the novelty comes from transforming the domain. 
 
 ## active members
 
