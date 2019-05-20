@@ -15,7 +15,30 @@ We are a group  focusing  on trans-disciplinary   Artificial Intelligence (AI) r
 * Mr. Aakrash Yadav, Indian Institute of Technology, India
 * Mr. Ashray Aman, Indian Institute of Technology, India
 * Mr. Rishab Gupta, Indian Institute of Technology, India
+* Mr. Mani Tyagi, Indian Institute of Technology, India
 * Mr. Krishan Kumar, University of the South Pacific, Fiji 
+
+
+
+
+## summer research interns 
+
+### 2019
+* Mr. Aakrash Yadav, Indian Institute of Technology, India
+* Mr. Ashray Aman, Indian Institute of Technology, India
+* Mr. Rishab Gupta, Indian Institute of Technology, India
+* Mr. Mani Tyagi, Indian Institute of Technology, India
+
+### 2018
+
+
+* Mr. Konark Jain, Indian Institute of Technology, India
+* Mr. Arpit Kapoor, SRM Institute of Technology, India
+* [Mr. Ratneel Deo, University of the South Pacific, Fiji](ratneel-deo.md)
+
+
+
+
 
 
 ## affiliates
