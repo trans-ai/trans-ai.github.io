@@ -1,1 +1,2 @@
-28/05: Working on taking out the mineral data of South East Asia from the Earthchem portal. 
+*Tack my progress here*
+https://github.com/aakarshy/pygplates_southeast_asia
