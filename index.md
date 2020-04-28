@@ -96,5 +96,5 @@ We are a group  focusing  on trans-disciplinary   Artificial Intelligence (AI) r
 ## contact
 
 * In order to join this group, send an EOI with CV to Dr. Rohitash Chandra ( c dot rohitash at gmail dot com). Affliate membership also welcome.
-* Note that you have to be active in the group discuission list hosted at googlegroups with at least one discussion post every 3 months. Else you will be listed in the past member category in the following year. 
+* Note that you have to be active in the group discuission list hosted at googlegroups.
 
