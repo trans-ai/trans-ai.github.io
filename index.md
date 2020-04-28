@@ -6,22 +6,23 @@ We are a group  focusing  on trans-disciplinary   Artificial Intelligence (AI) r
 
 ## active members
 
-* [Dr. Rohitash Chandra](https://sydney.edu.au/science/people/rohitash.chandra.php), (Group Lead)  University of Sydney, Australia 
-* Mr. Ratneel Deo, University of the South Pacific, Fiji 
-* Ms. Swaran Ravindra, Fiji National University, Fiji 
-* Mr. Yogesh Nadan, Fiji National University, Fiji 
-* Mr. Konark Jain, Indian Institute of Technology, India
-* Mr. Arpit Kapoor, SRM Institute of Technology, India
-* Mr. Aakrash Yadav, Indian Institute of Technology, India
+* [Dr. Rohitash Chandra](https://research.unsw.edu.au/people/dr-rohitash-chandra), (Group Lead)  UNSW Sydney, Australia 
+* Mr. Ratneel Deo, University of the South Pacific, Fiji    
+* Mr. Arpit Kapoor, SRM Institute of Technology, India 
 * Mr. Ashray Aman, Indian Institute of Technology, India
-* Mr. Rishab Gupta, Indian Institute of Technology, India
-* Mr. Mani Tyagi, Indian Institute of Technology, India
-* Mr. Krishan Kumar, University of the South Pacific, Fiji 
+* Mr. Rishab Gupta, Indian Institute of Technology, India 
+* Mr. Manavendrasinh Maharana, India
+* Dr. Rodney Beard
+* Mr. Ravinesh Chand, University of the South Pacific, Fiji    
+
+
 
 
 
 
 ## summer research interns 
+### 2020
+* Mr. Manavendrasinh Maharana, India
 
 ### 2019
 * Mr. Aakrash Yadav, Indian Institute of Technology, India
