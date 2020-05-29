@@ -11,31 +11,38 @@ We are a group  focusing  on trans-disciplinary   Artificial Intelligence (AI) r
 * Mr. Arpit Kapoor, SRM Institute of Technology, India 
 * Mr. Ashray Aman, Indian Institute of Technology, India
 * Mr. Rishab Gupta, Indian Institute of Technology, India 
-* Mr. Manavendrasinh Maharana, India
-* Dr. Rodney Beard
-* Mr. Ravinesh Chand, University of the South Pacific, Fiji    
+* Mr. Manavendrasinh Maharana, Manipal Institute of Technology, India
+* Dr. Rodney Beard, Canada
+* Mr. Ravinesh Chand, University of the South Pacific, Fiji   
+* Mr. Animesh Renanse, Indian Institute of Technology Guwahati , India  
+* Mr. Shaurya Goyal, Indian Institute of Technology Delhi, India  
+* Mr. Yash Sharma, Indian Institute of Technology Roorkee, India  
+* Mr. Ashish Gupta, Indian Institute of Technology Delhi, India  
 
 
 
 
 
 
-## summer research interns 
+## research interns 
 ### 2020
-* Mr. Manavendrasinh Maharana, India
+* Mr. Animesh Renanse, Indian Institute of Technology Guwahati , India (May 2020 - August 2020)
+* Mr. Shaurya Goyal, Indian Institute of Technology Delhi, India (May 2020 - August 2020)
+* Mr. Yash Sharma, Indian Institute of Technology Roorkee, India (May 2020 - August 2020)
+* Mr. Ashish Gupta, Indian Institute of Technology Delhi, India (May 2020 - August 2020)
+* Mr. Manavendrasinh Maharana, Manipal Institute of Technology, India (Jan 2020 - May 2020)
 
 ### 2019
-* Mr. Aakrash Yadav, Indian Institute of Technology, India
-* Mr. Ashray Aman, Indian Institute of Technology, India
-* Mr. Rishab Gupta, Indian Institute of Technology, India
-* Mr. Mani Tyagi, Indian Institute of Technology, India
+* Mr. Aakrash Yadav, Indian Institute of Technology, India (June 2019 - August 2019)
+* Mr. Ashray Aman, Indian Institute of Technology Delhi, India (June 2019 - August 2019)
+* Mr. Rishab Gupta, Indian Institute of Technology, India (June 2019 - August 2019)
 
 ### 2018
 
 
-* Mr. Konark Jain, Indian Institute of Technology, India
-* Mr. Arpit Kapoor, SRM Institute of Technology, India
-* [Mr. Ratneel Deo, University of the South Pacific, Fiji](ratneel-deo.md)
+* Mr. Konark Jain, Indian Institute of Technology, India (May 2018 - July 2018)
+* Mr. Arpit Kapoor, SRM Institute of Technology, India (June 2018 - August 2018)
+* [Mr. Ratneel Deo, University of the South Pacific, Fiji](ratneel-deo.md) (December 2017 - February 2018)
 
 
 
