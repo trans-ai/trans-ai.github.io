@@ -9,25 +9,25 @@ We are a group  focusing  on trans-disciplinary   Artificial Intelligence (AI) r
 * [Dr. Rohitash Chandra](https://research.unsw.edu.au/people/dr-rohitash-chandra), (Group Lead)  UNSW Sydney, Australia 
 * Dr. Pavel N. Krivitsky, UNSW Sydney, Australia 
 * Prof. Scott Scission,  UNSW Sydney, Australia 
-* Prof. Alok Sharma, RIKEN, Japan
-* Prof. Christian Omlin, Agder University, Norway
-* Dr. Shelvin Chand, Data 61, CSIRO, Brisbane, Australia
-* Dr. Rodney Beard, Data Science Consultant, Canada
 * Prof. Dietmar Muller, Earthbyte Group, University of Sydney, Australia
 * A/Prof. Jody Webster, Geocoastal Research Group, University of Sydney, Australia
 * Dr. Mark Lindsey, University of Western Australia, Perth, Australia
+* Dr. Shelvin Chand, Data 61, CSIRO, Brisbane, Australia
+* Prof. Alok Sharma, RIKEN, Japan
+* Prof. Christian Omlin, Agder University, Norway
+* Dr. Rodney Beard, Data Science Consultant, Canada
 * Dr. Ehsan Farahbukshsh, Amirkabir University, Iran
-* Dr. Sahoo, Oklahama State University, USA.
+* Dr. Avimanyu Sahoo, Oklahama State University, USA
 * Dr. Ronesh Sharma, Fiji National University, Fiji
 
 ## industry  members
  
 
-* Dr. John Hawkins (Data Robot, Australia)
-* Mr. Arpit Kapoor, India 
-* Mr. Manavendrasinh Maharana, Microsoft, Indi
-* Mr. Konark Jain, JP Morgon Chase, India
+* Dr. John Hawkins, Data Robot, Australia
 * Mr. Danial Azam, Earthbyte Group, University of Sydney, Australia
+* Mr. Arpit Kapoor, India 
+* Mr. Manavendrasinh Maharana, Microsoft, India
+* Mr. Konark Jain, JP Morgon Chase, India
 
 ## research students and interns 
 
@@ -55,6 +55,7 @@ We are a group  focusing  on trans-disciplinary   Artificial Intelligence (AI) r
 * Mr. Animesh Tiwari, Indian Institute of Technology Guwahati , India  
 * Mr. Ayush Jain, Indian Institute of Technology Guwahati , India 
 * Mr. Divyanshu Singh, Indian Institute of Technology Guwahati , India 
+* Mr. Kousik Rajesh,  Indian Institute of Technology Guwahati , India
 
 
 ### 2019
