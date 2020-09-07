@@ -4,20 +4,38 @@ layout: default
 
 We are a group  focusing  on trans-disciplinary   Artificial Intelligence (AI) research where the novelty comes from transforming the domain. 
 
-## active members
+## academics
 
 * [Dr. Rohitash Chandra](https://research.unsw.edu.au/people/dr-rohitash-chandra), (Group Lead)  UNSW Sydney, Australia 
-* Mr. Ratneel Deo, University of the South Pacific, Fiji    
-* Mr. Arpit Kapoor, SRM Institute of Technology, India 
-* Mr. Ashray Aman, Indian Institute of Technology, India
-* Mr. Rishab Gupta, Indian Institute of Technology, India 
-* Mr. Manavendrasinh Maharana, Manipal Institute of Technology, India
-* Dr. Rodney Beard, Canada
-* Mr. Ravinesh Chand, University of the South Pacific, Fiji   
-* Mr. Animesh Renanse, Indian Institute of Technology Guwahati , India  
-* Mr. Shaurya Goyal, Indian Institute of Technology Delhi, India  
-* Mr. Yash Sharma, Indian Institute of Technology Roorkee, India  
-* Mr. Ashish Gupta, Indian Institute of Technology Delhi, India  
+* Dr. Pavel N. Krivitsky, UNSW Sydney, Australia 
+* Prof. Scott Scission,  UNSW Sydney, Australia 
+* Prof. Alok Sharma, RIKEN, Japan
+* Prof. Christian Omlin, Agder University, Norway
+* Dr. Shelvin Chand, Data 61, CSIRO, Brisbane, Australia
+* Dr. Rodney Beard, Data Science Consultant, Canada
+* Prof. Dietmar Muller, Earthbyte Group, University of Sydney, Australia
+* A/Prof. Jody Webster, Geocoastal Research Group, University of Sydney, Australia
+* Dr. Mark Lindsey, University of Western Australia, Perth, Australia
+* Dr. Ehsan Farahbukshsh, Amirkabir University, Iran
+* Dr. Sahoo, Oklahama State University, USA.
+* Dr. Ronesh Sharma, Fiji National University, Fiji
+
+## industry  members
+ 
+
+* Dr. John Hawkins (Data Robot, Australia)
+* Mr. Arpit Kapoor, India 
+* Mr. Manavendrasinh Maharana, Microsoft, Indi
+* Mr. Konark Jain, JP Morgon Chase, India
+* Mr. Danial Azam, Earthbyte Group, University of Sydney, Australia
+
+## research students and interns 
+
+* Mr. Subash Chandra, PhD Student, UNSW Sydney, Australia
+* Mr. Hakiim Jamaluddin, PhD Student, UNSW Sydney, Australia
+* Mr. Julian Henandez, MSc Student, University of Sydney, Australia
+* Mr. Ratneel Deo, University of the South Pacific, Fiji   
+* Mr. Ravinesh Chand, University of the South Pacific, Fiji 
 
 
 
@@ -31,6 +49,13 @@ We are a group  focusing  on trans-disciplinary   Artificial Intelligence (AI) r
 * Mr. Yash Sharma, Indian Institute of Technology Roorkee, India (May 2020 - August 2020)
 * Mr. Ashish Gupta, Indian Institute of Technology Delhi, India (May 2020 - August 2020)
 * Mr. Manavendrasinh Maharana, Manipal Institute of Technology, India (Jan 2020 - May 2020)
+* Mr. Mahir Jain, Manipal Institute of Technology, India
+* Mr. Ayush Bhagat,  Manipal Institute of Technology, India
+* Ms. Arya Arya,  Indian Institute of Technology Jammu, India 
+* Mr. Animesh Tiwari, Indian Institute of Technology Guwahati , India  
+* Mr. Ayush Jain, Indian Institute of Technology Guwahati , India 
+* Mr. Divyanshu Singh, Indian Institute of Technology Guwahati , India 
+
 
 ### 2019
 * Mr. Aakrash Yadav, Indian Institute of Technology, India (June 2019 - August 2019)
@@ -50,7 +75,7 @@ We are a group  focusing  on trans-disciplinary   Artificial Intelligence (AI) r
 
 
 ## affiliates
-* Prof. Christian Omlin (Norway), Dr. Shelvin Chand (Spain), Dr. Surya Prakash (Australia), Dr. John Hawkins (Data Robot, Australia), Dr. Rodney Beard (Solomon  Islands), Dr. Hugo Olierook (Curtin,Perth), A/Prof. Jody Webster (USyd, Sydney), Prof. Dietmar Muller (USyd, Sydney), Dr. Vladimir Puzyrev (Curtin, Perth), Mr. Danial Azam, (USyd, Sydney)
+*   Dr. Surya Prakash (Australia),   Dr. Hugo Olierook (Curtin,Perth),    Dr. Vladimir Puzyrev (Curtin, Perth), Mr. Danial Azam, (USyd, Sydney)
 
 
 
