@@ -33,7 +33,7 @@ We are a group  focusing  on trans-disciplinary   Artificial Intelligence (AI) r
 
 * Mr. Subash Chandra, PhD Student in Data Science and Mineral Exploration, UNSW Sydney, Australia
 * Mr. Hakiim Jamaluddin, PhD Student in Data Science, UNSW Sydney, Australia
-* Mr. Julian Henandez, MSc Student, University of Sydney, Australia
+* Mr. Julian Diaz Rodriguez, MSc Student, University of Sydney, Australia
 * Ms. Yixuan He, Master of  Financial Mathematics, UNSW Sydney, Australia
 * Mr. Ratneel Deo, University of the South Pacific, Fiji   
 * Mr. Ravinesh Chand, University of the South Pacific, Fiji 
