@@ -16,7 +16,7 @@ We are a group  focusing  on trans-disciplinary   Artificial Intelligence (AI) r
 * Prof. Alok Sharma, RIKEN, Japan
 * Prof. Christian Omlin, Agder University, Norway
 * Dr. Rodney Beard, Data Science Consultant, Canada
-* Dr. Ehsan Farahbukshsh, Amirkabir University, Iran
+* Dr. Ehsan Farahbakhsh, Amirkabir University of Technology, Tehran, Iran
 * Dr. Avimanyu Sahoo, Oklahama State University, USA
 * Dr. Ronesh Sharma, Fiji National University, Fiji
 
@@ -31,9 +31,10 @@ We are a group  focusing  on trans-disciplinary   Artificial Intelligence (AI) r
 
 ## research students and interns 
 
-* Mr. Subash Chandra, PhD Student, UNSW Sydney, Australia
-* Mr. Hakiim Jamaluddin, PhD Student, UNSW Sydney, Australia
+* Mr. Subash Chandra, PhD Student in Data Science and Mineral Exploration, UNSW Sydney, Australia
+* Mr. Hakiim Jamaluddin, PhD Student in Data Science, UNSW Sydney, Australia
 * Mr. Julian Henandez, MSc Student, University of Sydney, Australia
+* Ms. Yixuan He, Master of  Financial Mathematics, UNSW Sydney, Australia
 * Mr. Ratneel Deo, University of the South Pacific, Fiji   
 * Mr. Ravinesh Chand, University of the South Pacific, Fiji 
 
