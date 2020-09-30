@@ -16,16 +16,16 @@ We are a group  focusing  on trans-disciplinary   Artificial Intelligence (AI) r
 * Dr. Tom Blau, Data 61, CSIRO, Sydney, Australia
 * Prof. Alok Sharma, RIKEN, Japan
 * Prof. Christian Omlin, Agder University, Norway
-* Dr. Rodney Beard, Data Science Consultant, Canada
 * Dr. Ehsan Farahbakhsh, Amirkabir University of Technology, Tehran, Iran
-* Dr. Avimanyu Sahoo, Oklahama State University, USA
-* Dr. Ronesh Sharma, Fiji National University, Fiji
+* Dr. Avimanyu Sahoo, Oklahama State University, USA 
 * Dr. Anurag Sharma, University of the South Pacific, Fiji
 
 ## industry  members
  
 
 * Dr. John Hawkins, Data Robot, Australia
+* Dr. Shaukat Ali, Australia
+* Dr. Rodney Beard, Data Science Consultant, Canada
 * Mr. Danial Azam, Earthbyte Group, University of Sydney, Australia
 * Mr. James Shankar, Data Footprint, Sydney, Australia
 * Mr. Arpit Kapoor, India 
@@ -37,9 +37,8 @@ We are a group  focusing  on trans-disciplinary   Artificial Intelligence (AI) r
 * Mr. Subash Chandra, PhD Student in Data Science and Mineral Exploration, UNSW Sydney, Australia
 * Mr. Hakiim Jamaluddin, PhD Student in Data Science, UNSW Sydney, Australia
 * Mr. Julian Diaz Rodriguez, MSc Student, University of Sydney, Australia
-* Ms. Yixuan He, Master of  Financial Mathematics, UNSW Sydney, Australia
-* Mr. Ratneel Deo, University of the South Pacific, Fiji   
-* Mr. Ravinesh Chand, University of the South Pacific, Fiji 
+* Mr. Ratneel Deo, University of the South Pacific, Fiji  (PhD preparation)
+* Ms. Yixuan He, Master of  Financial Mathematics, UNSW Sydney, Australia (Submitted thesis, August 2020)
 
 
 
