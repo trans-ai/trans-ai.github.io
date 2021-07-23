@@ -6,8 +6,9 @@ We are a group  focusing  on trans-disciplinary   Artificial Intelligence (AI) r
 
 
 
+##Research Students 
 
-## Ph.D research students  
+### Ph.D research students  
 
 * Subhash Chandra, Data Science for Mineral Exploration, UNSW Sydney  (Since February 2021)
 * Hakiim Jamaluddin,  Bayesian Deep Learning, UNSW Sydney  (Since February 2021)
@@ -19,11 +20,11 @@ We are a group  focusing  on trans-disciplinary   Artificial Intelligence (AI) r
 * Ratneel Deo,  Geocoastal Data Science,  University of  Sydney (Since July 2021)
 * Megan Nguyen,  Bayesian Deep Learning, University of  Sydney (Since March 2021)
 
-## Masters by Research and Honours students
+### Masters by Research and Honours students
 * Aditya Deshpande, MPhil, Language models via deep learning (Since September 2021)
 * George Bai, Honours in Statistics, Bayesian deep learning (Since February 2021)
 
-## Masters by Coursework (Minor Thesis)
+### Masters by Coursework (Minor Thesis)
 *
 *
 
@@ -96,7 +97,7 @@ We are a group  focusing  on trans-disciplinary   Artificial Intelligence (AI) r
 
 
 
-## previous students 
+## Research Alumni
 
 
 * Julian Diaz Rodriguez, MPhil in Spatio-temporal Mineral Exploration, University of Sydney (May 2021) 
