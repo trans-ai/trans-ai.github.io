@@ -27,6 +27,9 @@ We are a group  focusing  on trans-disciplinary   Artificial Intelligence (AI) r
 *
 *
 
+## Postdoc Research Fellow
+
+* Dr. Simon Luo, University of Sydney (Since July 2021)
 
 ## academics and collaborators
 
@@ -143,7 +146,7 @@ We are a group  focusing  on trans-disciplinary   Artificial Intelligence (AI) r
 
 ## Partners
 
-* [Data Analysistcs in Resources and Environment (ARC ITTC)](https://darecentre.org.au/)
+* [Data Analytics in Resources and Environment (ARC ITTC)](https://darecentre.org.au/)
 * [EarthByte Group, School of Geosciences, University of Sydney](https://www.earthbyte.org/)
 * [Geocoastal Research Group, School of Geosciences, University of Sydney](https://grgusyd.org/)
 * [Australian Centre for Disease Preparedness, CSIRO](https://www.csiro.au/en/about/facilities-collections/ACDP)
