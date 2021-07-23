@@ -2,8 +2,7 @@
 layout: default
 --- 
 
-We are a group  focusing  on trans-disciplinary   Artificial Intelligence (AI) research where the novelty comes from transforming the domain. 
-
+We are a group  focusing  on trans-disciplinary   Artificial Intelligence (AI) research. Our group’s research encircles methodologies and applications of artificial intelligence; particularly in areas of Bayesian deep learning, climate extremes, geoscientific models, and mineral exploration. Our focus is in developing innovative machine learning methods inspired by technologies that include transfer learning, modular knowledge development, and multi-task learning. Our key strength is in the development of novel deep learning software frameworks with focus on uncertainty quantification in decision making. This year, we are moving into the area of vaccine testing research using deep learning methods.
 
 
 
@@ -13,8 +12,9 @@ We are a group  focusing  on trans-disciplinary   Artificial Intelligence (AI) r
 * Subhash Chandra, Data Science for Mineral Exploration, UNSW Sydney  (Since February 2021)
 * Hakiim Jamaluddin,  Bayesian Deep Learning, UNSW Sydney  (Since February 2021)
 * Arpit Kapoor,  Bayesian deep learning for hydrology,  UNSW  Sydney (Since September 2021)
-* Mahsa Trivoli, Bayesian deep learning, UNSW  Sydney (February 2022)
+* Mahsa Tavakoli, Bayesian deep learning, UNSW  Sydney (February 2022)
 * Arpit Kapoor,   Bayesian deep learning for hydrology,  UNSW  Sydney (Since September 2022)
+* Himasha Harshani, Bayesian deep learning for vaccine research (COVID-19), UNSW Sydney ( February 2022)
 * Ratneel Deo,  Geocoastal Data Science,  University of  Sydney (Since July 2021)
 * Megan Nguyen,  Bayesian Deep Learning, University of  Sydney (Since March 2021)
 
@@ -120,9 +120,6 @@ We are a group  focusing  on trans-disciplinary   Artificial Intelligence (AI) r
 
 
 
-
-
-
 ## research methods
 
 * Artificial Intelligence methods include, but not limiting to, Data Science, Machine learning and Optimisation
@@ -131,18 +128,30 @@ We are a group  focusing  on trans-disciplinary   Artificial Intelligence (AI) r
 * Supervised, Unsupervised and Reinforcement Learning
 * Bayesian methods, MCMC methods, Distributed AI algorithms, Parallel MCMC methods
 
- 
+## Impact
 
-## software archives
-* [Sydney Machine Learning](https://github.com/sydney-machine-learning/ )
-* [Intelligent Exploration](https://github.com/intelligent-exploration )
-* [Intelligent Earth](https://github.com/intelligentEarth/ ) 
+* Open source software frameworks can be used by Earth and climate scientists.
+* Data generated through geoscientific models can be used for further research by climate scientists.
+* Research outputs in high impact journals gaining citations.
 
-## active research projects 
-* Solid Earth Evolution
-* Paleo-climate Resonstruction 
-* Evolutionary parallel tempering MCMC
-* Ethical issues in AI
+## Successful applications
+
+* Bayesian deep learning framework that integrates with novel models such as deep auto-encoders, recurrent neural networks, and convolutional neural networks.
+* Bayesian geo-scientific model framework for estimation and uncertainty quantification of unknown parameters for models that simulate Earth’s natural processes for thousands to millions of years.
+* Deep learning models that predict climate extremes, such as droughts and cyclones for decades to come by leveraging data from global-circulation models.
+
+## Partners
+
+* [Data Analysistcs in Resources and Environment (ARC ITTC)](https://darecentre.org.au/)
+* [EarthByte Group, School of Geosciences, University of Sydney](https://www.earthbyte.org/)
+* [Geocoastal Research Group, School of Geosciences, University of Sydney](https://grgusyd.org/)
+* [Australian Centre for Disease Preparedness, CSIRO](https://www.csiro.au/en/about/facilities-collections/ACDP)
+
+
+
+## grants
+* ARC-ITTC in Data Analytics in Resources and Environments (2020 - 2024)
+* NHRMC grant for COVID-19 vaccine research (2021 - 2022)
 
 
 ## educational resources
@@ -158,9 +167,13 @@ We are a group  focusing  on trans-disciplinary   Artificial Intelligence (AI) r
 
 
 
+## software archives
+* [Sydney Machine Learning](https://github.com/sydney-machine-learning/ )
+* [Intelligent Exploration](https://github.com/intelligent-exploration )
+* [Intelligent Earth](https://github.com/intelligentEarth/ ) 
+
 
 ## contact
 
-* In order to join this group, send an EOI with CV to Dr. Rohitash Chandra ( c dot rohitash at gmail dot com). Affliate membership also welcome.
-* Note that you have to be active in the group discuission list hosted at googlegroups.
+*  Dr. Rohitash Chandra ( c dot rohitash at gmail dot com). Email for internships and affliate membership - GoogleGroups 
 
