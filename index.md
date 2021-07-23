@@ -6,7 +6,7 @@ We are a group  focusing  on trans-disciplinary   Artificial Intelligence (AI) r
 
 
 
-##Research Students 
+## Research Students 
 
 ### Ph.D research students  
 
@@ -57,7 +57,7 @@ We are a group  focusing  on trans-disciplinary   Artificial Intelligence (AI) r
 
 
 
-## research interns 
+## Research interns 
 
 ### 2022
 
@@ -107,7 +107,7 @@ We are a group  focusing  on trans-disciplinary   Artificial Intelligence (AI) r
  
 
 
-## industry and external members
+## Industry and external members
  
 
 * Dr. John Hawkins, Data Robot, Australia
@@ -125,7 +125,7 @@ We are a group  focusing  on trans-disciplinary   Artificial Intelligence (AI) r
 
 
 
-## research methods
+## Research methods
 
 * Artificial Intelligence methods include, but not limiting to, Data Science, Machine learning and Optimisation
 * Deep Learning and Neural networks, Learning systems
@@ -154,7 +154,7 @@ We are a group  focusing  on trans-disciplinary   Artificial Intelligence (AI) r
 
 
 
-## grants
+## Grants
 * ARC-ITTC in Data Analytics in Resources and Environments (2020 - 2024)
 * NHRMC grant for COVID-19 vaccine research (2021 - 2022)
 
@@ -172,13 +172,13 @@ We are a group  focusing  on trans-disciplinary   Artificial Intelligence (AI) r
 
 
 
-## software archives
+## Software archives
 * [Sydney Machine Learning](https://github.com/sydney-machine-learning/ )
 * [Intelligent Exploration](https://github.com/intelligent-exploration )
 * [Intelligent Earth](https://github.com/intelligentEarth/ ) 
 
 
-## contact
+## Contact
 
 *  Dr. Rohitash Chandra ( c dot rohitash at gmail dot com). Email for internships and affliate membership - GoogleGroups 
 
