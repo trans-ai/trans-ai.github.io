@@ -18,7 +18,7 @@ We are a group  focusing  on trans-disciplinary   Artificial Intelligence (AI) r
 * Ratneel Deo,  Geocoastal Data Science,  University of  Sydney (Since July 2021)
 * Megan Nguyen,  Bayesian Deep Learning, University of  Sydney (Since March 2021)
 
-## Masters by Research and Honours studenets
+## Masters by Research and Honours students
 * Aditya Deshpande, MPhil, Language models via deep learning (Since September 2021)
 * George Bai, Honours in Statistics, Bayesian deep learning (Since February 2021)
 
